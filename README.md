@@ -1,4 +1,4 @@
-# samoy-details
+
 # Auto Data cleaner - "samoy"
 **samoy** is a Python package for machine learning and data science, built on top of Pandas inbuilt libraries.
 This package will be useful for data pre-processing before starting off any machine learning or data science project as it will ease your entire process of data cleaning without much input from the user.
